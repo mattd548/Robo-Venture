@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 59a6bfdeffab249d4aa7774825baafdb
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: red-robot-game-sprites-vector-21861409_0
+    21300002: red-robot-game-sprites-vector-21861409_1
+    21300004: red-robot-game-sprites-vector-21861409_2
+    21300006: red-robot-game-sprites-vector-21861409_3
+    21300008: red-robot-game-sprites-vector-21861409_4
+    21300010: red-robot-game-sprites-vector-21861409_5
+    21300012: red-robot-game-sprites-vector-21861409_6
+    21300014: red-robot-game-sprites-vector-21861409_7
+    21300016: red-robot-game-sprites-vector-21861409_8
+    21300018: red-robot-game-sprites-vector-21861409_9
+    21300020: red-robot-game-sprites-vector-21861409_10
+    21300022: red-robot-game-sprites-vector-21861409_11
+    21300024: red-robot-game-sprites-vector-21861409_12
+    21300026: red-robot-game-sprites-vector-21861409_13
+    21300028: red-robot-game-sprites-vector-21861409_14
+    21300030: red-robot-game-sprites-vector-21861409_15
+    21300032: red-robot-game-sprites-vector-21861409_16
+    21300034: red-robot-game-sprites-vector-21861409_17
+    21300036: red-robot-game-sprites-vector-21861409_18
+    21300038: red-robot-game-sprites-vector-21861409_19
+    21300040: red-robot-game-sprites-vector-21861409_20
+    21300042: red-robot-game-sprites-vector-21861409_21
+    21300044: red-robot-game-sprites-vector-21861409_22
+    21300046: red-robot-game-sprites-vector-21861409_23
+    21300048: red-robot-game-sprites-vector-21861409_24
+    21300050: red-robot-game-sprites-vector-21861409_25
+    21300052: red-robot-game-sprites-vector-21861409_26
+    21300054: red-robot-game-sprites-vector-21861409_27
+    21300056: red-robot-game-sprites-vector-21861409_28
+    21300058: red-robot-game-sprites-vector-21861409_29
+    21300060: red-robot-game-sprites-vector-21861409_30
+    21300062: red-robot-game-sprites-vector-21861409_31
+    21300064: red-robot-game-sprites-vector-21861409_32
+    21300066: red-robot-game-sprites-vector-21861409_33
+    21300068: red-robot-game-sprites-vector-21861409_34
+    21300070: red-robot-game-sprites-vector-21861409_35
+    21300072: red-robot-game-sprites-vector-21861409_36
+    21300074: red-robot-game-sprites-vector-21861409_37
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: red-robot-game-sprites-vector-21861409_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 498
+        width: 66
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a2ddb9d735543f8a1b2c6e52c07dde
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-robot-game-sprites-vector-21861409_1
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 498
+        width: 64
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592b188098f444cc88e639ef886f87fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-robot-game-sprites-vector-21861409_2
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 498
+        width: 66
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d81b2e1a4fd642bfa2538e9821f7136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-robot-game-sprites-vector-21861409_3
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 496
+        width: 64
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3218eae539cef48fd8a4f8689121a672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-robot-game-sprites-vector-21861409_4
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 498
+        width: 58
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff43c33f59ba34302a137a19f0a3fac4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-robot-game-sprites-vector-21861409_5
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 497
+        width: 69
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c4c48b9919c489f9cd345b68883528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-robot-game-sprites-vector-21861409_6
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 496
+        width: 68
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f9d168d74884fb399b40b9acb4e086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-robot-game-sprites-vector-21861409_7
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 496
+        width: 67
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99eabf7b0708b446abddcfb11aaf71c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-robot-game-sprites-vector-21861409_8
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 496
+        width: 72
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f997e9e3349c946fda2fd3478aec1863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-robot-game-sprites-vector-21861409_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 347
+        width: 55
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c737e56ec174799b5f374757418335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-robot-game-sprites-vector-21861409_10
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 347
+        width: 64
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3bbbac34bb35481ca23418b64e64ca0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-robot-game-sprites-vector-21861409_11
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 352
+        width: 86
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54165d74b1ab24575a4629d4e0fbcb39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-robot-game-sprites-vector-21861409_12
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 348
+        width: 92
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d47bac0ca7e0402cab7fdfaaea1de5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-robot-game-sprites-vector-21861409_13
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 348
+        width: 76
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c998ac8c0564cbd8986e7441fefcfc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-robot-game-sprites-vector-21861409_14
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 347
+        width: 72
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07595fb4e89504b3c96a814c170caa54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-robot-game-sprites-vector-21861409_15
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 347
+        width: 59
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc02edc4865634be4b6096b3f391f2f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-robot-game-sprites-vector-21861409_16
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 352
+        width: 73
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700fe4166a10f477587f39e7fbe19bf3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-robot-game-sprites-vector-21861409_17
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 348
+        width: 86
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c3387bfa10645c7975295d0df8451e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-robot-game-sprites-vector-21861409_18
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 347
+        width: 67
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404cc12b8e2d34e668561783c3518ec4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-robot-game-sprites-vector-21861409_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 194
+        width: 60
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf46475c3e62341dfb0b2ed35f0503f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-robot-game-sprites-vector-21861409_20
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 194
+        width: 51
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5bfed2db923485590eb565f1ec45f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-robot-game-sprites-vector-21861409_21
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 194
+        width: 52
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0027d0662f023471491676d6aa1b5fe7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-robot-game-sprites-vector-21861409_22
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 194
+        width: 64
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6ca048c55e04ffbb2e98f91dca04b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-robot-game-sprites-vector-21861409_23
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 195
+        width: 89
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f65be2d9fa784a9094a82908aee788a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-robot-game-sprites-vector-21861409_24
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 195
+        width: 80
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9865e1a657e4915ba9886326d631e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-robot-game-sprites-vector-21861409_25
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 194
+        width: 60
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945acda9262704617b974259c80a30c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-robot-game-sprites-vector-21861409_26
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 195
+        width: 85
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e987117076e624545b973dc3f16b0c14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-robot-game-sprites-vector-21861409_27
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 196
+        width: 85
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a822bcb6f5f45bb9b02cee443e2750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-robot-game-sprites-vector-21861409_28
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 223
+        width: 83
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2161f640aae4d42609c773b9332d6270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-robot-game-sprites-vector-21861409_29
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 204
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f518a15dbf28472286434968fddb521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-robot-game-sprites-vector-21861409_30
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 86
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9cdefa9a97b946d39ceea95b9a8f113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-robot-game-sprites-vector-21861409_31
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 60
+        width: 110
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc2cc625ebc34835ac39add49d9b402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-robot-game-sprites-vector-21861409_32
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 92
+        width: 112
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a1c9bb36a494995947de3f6f37124e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-robot-game-sprites-vector-21861409_33
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 40
+        width: 97
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7afbd0e85124b9f8ebe6b8605e1bd8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-robot-game-sprites-vector-21861409_34
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 0
+        width: 91
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0298fd95926c64f7dbb87534232dbcbe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-robot-game-sprites-vector-21861409_35
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 9
+        width: 111
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c763e9cfdb03e44a887cef52d3221f8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-robot-game-sprites-vector-21861409_36
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 0
+        width: 112
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01922b83e40974a51b47b720d4158588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-robot-game-sprites-vector-21861409_37
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 0
+        width: 115
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1f8f77ad5b348408b1a7a100c2654b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e72408390875d4e2aa9852abb432a09c
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

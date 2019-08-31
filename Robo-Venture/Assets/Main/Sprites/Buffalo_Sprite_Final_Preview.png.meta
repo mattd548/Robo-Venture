@@ -1,0 +1,708 @@
+fileFormatVersion: 2
+guid: db9140698442442a892f9e3899631717
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Buffalo_Sprite_Final_Preview_0
+    21300002: Buffalo_Sprite_Final_Preview_1
+    21300004: Buffalo_Sprite_Final_Preview_2
+    21300006: Buffalo_Sprite_Final_Preview_3
+    21300008: Buffalo_Sprite_Final_Preview_4
+    21300010: Buffalo_Sprite_Final_Preview_5
+    21300012: Buffalo_Sprite_Final_Preview_6
+    21300014: Buffalo_Sprite_Final_Preview_7
+    21300016: Buffalo_Sprite_Final_Preview_8
+    21300018: Buffalo_Sprite_Final_Preview_9
+    21300020: Buffalo_Sprite_Final_Preview_10
+    21300022: Buffalo_Sprite_Final_Preview_11
+    21300024: Buffalo_Sprite_Final_Preview_12
+    21300026: Buffalo_Sprite_Final_Preview_13
+    21300028: Buffalo_Sprite_Final_Preview_14
+    21300030: Buffalo_Sprite_Final_Preview_15
+    21300032: Buffalo_Sprite_Final_Preview_16
+    21300034: Buffalo_Sprite_Final_Preview_17
+    21300036: Buffalo_Sprite_Final_Preview_18
+    21300038: Buffalo_Sprite_Final_Preview_19
+    21300040: Buffalo_Sprite_Final_Preview_20
+    21300042: Buffalo_Sprite_Final_Preview_21
+    21300044: Buffalo_Sprite_Final_Preview_22
+    21300046: Buffalo_Sprite_Final_Preview_23
+    21300048: Buffalo_Sprite_Final_Preview_24
+    21300050: Buffalo_Sprite_Final_Preview_25
+    21300052: Buffalo_Sprite_Final_Preview_26
+    21300054: Buffalo_Sprite_Final_Preview_27
+    21300056: Buffalo_Sprite_Final_Preview_28
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Buffalo_Sprite_Final_Preview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 374
+        width: 218
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9efbd66e5dc4aac919daaf88c162cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buffalo_Sprite_Final_Preview_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 415
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b4611ddacca4dbf9c919c730ba9bf5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buffalo_Sprite_Final_Preview_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 414
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f85f12bbc524d1ebf4e1b104b94e94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buffalo_Sprite_Final_Preview_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 414
+        width: 57
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c291ce43d427146eb81363772bcce928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buffalo_Sprite_Final_Preview_4
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 414
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad2859d8738b4b73a872aee7e8bd0aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buffalo_Sprite_Final_Preview_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 414
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d914b24ab51b3438c801fb52867018f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buffalo_Sprite_Final_Preview_6
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 413
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c73bc8d8f1fc496d83b144d57a45142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buffalo_Sprite_Final_Preview_7
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 416
+        width: 54
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de817288065c41fe8744fc8d7a3dc4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buffalo_Sprite_Final_Preview_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 286
+        width: 68
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27a18d8e65414c8d9163d9e02038dfb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buffalo_Sprite_Final_Preview_9
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 278
+        width: 149
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4c1b301c0d14e6cb7b49593d426a37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buffalo_Sprite_Final_Preview_10
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 276
+        width: 55
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399ecae1362ca4f13a4c53d4392cbc58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buffalo_Sprite_Final_Preview_11
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 275
+        width: 55
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb42d04bc324445d83751371bb0da70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buffalo_Sprite_Final_Preview_12
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 275
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a5860e7ed384be59b04da0c19d9b6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buffalo_Sprite_Final_Preview_13
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 275
+        width: 57
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0980fd1477334e6292bbd7268705b95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buffalo_Sprite_Final_Preview_14
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 275
+        width: 54
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d789c980fb72d42bea7df2e142848779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buffalo_Sprite_Final_Preview_15
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 275
+        width: 54
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03df75128a644dadb384677e6872330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buffalo_Sprite_Final_Preview_16
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 197
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dde8a7d97f7843bcbbe127685d861c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buffalo_Sprite_Final_Preview_17
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 196
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938cccbb369e04b96985a1689c085a78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buffalo_Sprite_Final_Preview_18
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 197
+        width: 55
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e116d2c11ac8486f8a117bb2dfed18d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buffalo_Sprite_Final_Preview_19
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 199
+        width: 57
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44baf85d64f264608a0dfa1193a9c698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buffalo_Sprite_Final_Preview_20
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 67
+        width: 134
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69587c2e3bafe4d8aae573031c409ccd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buffalo_Sprite_Final_Preview_21
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 67
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36fb81ef78ef346a79e1a113839ae1bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buffalo_Sprite_Final_Preview_22
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 67
+        width: 51
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935922dc84ae844a1843c3f1bf5a7413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buffalo_Sprite_Final_Preview_23
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 67
+        width: 55
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f363c89f8e7644f7aaf040c30959a3f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buffalo_Sprite_Final_Preview_24
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 67
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: becf316c08c5142ceb75fae56e16be1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buffalo_Sprite_Final_Preview_25
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 67
+        width: 53
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64ad2066ad6b4de09487143d9c4f73d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buffalo_Sprite_Final_Preview_26
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 0
+        width: 53
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5999b93623ff04cfdb4a35d57628213f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buffalo_Sprite_Final_Preview_27
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 0
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21966ef6bad9c422ab79ad83d6611683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buffalo_Sprite_Final_Preview_28
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 0
+        width: 138
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009e11a4dd5104c9980aa15c69297ab9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e7064ab0ffc1941778563a80db3cd228
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
